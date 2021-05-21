@@ -1,1 +1,4 @@
 vendor
+keys
+test.sh
+.DS_Store

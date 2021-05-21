@@ -4,7 +4,15 @@ Currently it is a pain in the A** to export bee key in to metamask as they are n
 This programe will export the private key so that people can import it in metamask or other wallets.
 
 
-Usage: go run main.go \<sourceDirContainingBeeKeys\> \<password\>
+Usage: `beekey-mac64 /path/to/key/folder/ password`
+
+Folder structure
+```
+-keyfolder
+---swarm.key
+```
+
+It will create a file named `private.json` next to `swarm.key`
 
 Assumption: currently it assumes that you use the same password for all the keys in the dir :-)
 
