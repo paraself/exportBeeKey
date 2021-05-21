@@ -1,4 +1,4 @@
-# exportSwarmKey
+# exportBeeKey
 
 Currently it is a pain in the A** to export bee key in to metamask as they are not compatible.
 This programe will export the private key so that people can import it in metamask or other wallets.
