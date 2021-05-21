@@ -20,6 +20,6 @@ Disclaimer:
 - This will display the private key so please do it in a safe place.
 - There is absolutely no gurantee that your key will work or your fund security. 
 
-** Please use at your own risk **
+**Please use at your own risk**
 
 
